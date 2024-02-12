@@ -1,7 +1,37 @@
 [
     {
-        "title": "and again",
-        "text": "here we are\n",
-        "id": "2a29"
+        "title": "Walk the dog",
+        "text": "Make sure to walk George",
+        "id": "20ab"
+    },
+    {
+        "title": "Order supplies",
+        "text": "Get the pens ordered\n",
+        "id": "ed12"
+    },
+    {
+        "title": "Prep Lunch",
+        "text": "make some burriots",
+        "id": "f5be"
+    },
+    {
+        "title": "Clean the office",
+        "text": "Clean Clean Clean!",
+        "id": "a7ab"
+    },
+    {
+        "title": "Leave a note",
+        "text": "make a note about the other note that needs to be made",
+        "id": "7c67"
+    },
+    {
+        "title": "Learn SQL ",
+        "text": "look at the previous activities",
+        "id": "1c33"
+    },
+    {
+        "title": "Lern to Speel",
+        "text": "Figur oot howe two speel gud",
+        "id": "3cec"
     }
 ]
